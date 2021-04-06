@@ -1,0 +1,7 @@
+/** Hero Image */
+
+/* Override the bg image from DigitalPress 
+   b/c can't apply filter for some reason mlc. */
+.site-head {
+    background-image: url(/images/1-bali-ubud-pasar-ibu-sinar-bw-1280w.jpg) !important;
+}
