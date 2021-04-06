@@ -5,3 +5,7 @@
 .site-head {
     background-image: url(/images/1-bali-ubud-pasar-ibu-sinar-bw-1280w.jpg) !important;
 }
+
+.site-banner {
+    background-color: rgba(0,0,0,0.7);
+}
